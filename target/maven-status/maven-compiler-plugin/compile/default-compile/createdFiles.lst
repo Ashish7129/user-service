@@ -1,0 +1,6 @@
+com\nagp\assignmentone\userservice\service\impl\UserService.class
+com\nagp\assignmentone\userservice\service\IUserService.class
+com\nagp\assignmentone\userservice\dto\UserDTO.class
+com\nagp\assignmentone\userservice\model\User.class
+com\nagp\assignmentone\userservice\controllers\UserServiceController.class
+com\nagp\assignmentone\userservice\UserServiceApplication.class
